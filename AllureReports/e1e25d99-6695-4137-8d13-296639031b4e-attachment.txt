@@ -1,0 +1,3 @@
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:39 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:41 Reading data from excel
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:43 Number of rows in excel is 5

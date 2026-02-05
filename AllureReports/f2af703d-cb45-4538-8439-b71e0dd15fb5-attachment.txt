@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:96 Testcase test_Credkart_login_002 is started
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:98 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:107 Entering the Email Credencetest@test.com
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:114 Entering the password
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:120 Clicking on login button
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:140 Checking the login status
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:152 User login fail and taking screenshot

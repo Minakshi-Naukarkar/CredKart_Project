@@ -1,0 +1,15 @@
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:39 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:41 Reading data from excel
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:43 Number of rows in excel is 5
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:39 Testcase test_Credkart_login_excel_ddt_004 is started
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:41 Reading data from excel
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:43 Number of rows in excel is 5
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:48 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:53 Entering the Email Credencetest@test.com
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:55 Entering the password
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:57 Clicking on login button
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:59 Checking the login status
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:71 User login fail and taking screenshot
+[33mWARNING [0m urllib3.connectionpool:connectionpool.py:868 Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ReadTimeoutError("HTTPConnectionPool(host='localhost', port=60057): Read timed out. (read timeout=120)")': /session/6220e99bf9f995f5f698c539b62bb6da/screenshot
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:48 Opening browser and getting https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKart_Login_Excel_002.py:53 Entering the Email Credencetest@test.com11
