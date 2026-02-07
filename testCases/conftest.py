@@ -51,7 +51,8 @@ def browser_setup(request): # function
             "credentials_enable_service": False,
             # This turns OFF Chrome's "credentials service"
             # Chrome will not offer to save usernames/passwords.
-            "profile.password_manager_enabled": False
+            "profile.password_manager_enabled": False,
+            "profile.password_manager_leak_detection": False
             # This turns OFF Chrome's built-in Password Manager feature.
             # Password Manager related popups (Save password / breach warning) will not come.
         }
