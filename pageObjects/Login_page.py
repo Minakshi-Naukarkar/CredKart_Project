@@ -12,7 +12,7 @@ class Login_Page_Class:
 
     def __init__(self, driver):
         self.driver = driver
-        self.wait = WebDriverWait(self.driver, 20, 0.25)
+        self.wait = WebDriverWait(self.driver, 30)
 
     def Enter_Email(self, email):
         self.wait.until(expected_conditions.visibility_of_element_located((By.ID, self.text_email_id)))

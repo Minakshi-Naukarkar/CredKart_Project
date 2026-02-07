@@ -1,0 +1,4 @@
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:134 Testcase test_Credkart_registration_003 is started
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:136 Opening browser and getting https://automation.credence.in/register
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:139 Generated fake data for username--> aarnold and email --> lromero@example.org
+[32mINFO    [0m root:test_CredKart_User_Profile_001.py:143 Entering the Username--> aarnold
